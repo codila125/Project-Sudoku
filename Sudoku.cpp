@@ -97,5 +97,5 @@ int main() {
     playGame(board);
     return 0;
 }
-# this is not shit you issue
-# still 1
+//this is not shit you issue
+//still 1
